@@ -16,14 +16,8 @@ I was responsible in getting the whole project ready in just under a 3 week mark
 - Figma
 
 ## Screenshots 
-![Homepage](screenshots/homepage.png)
-
-![Contact Us](screenshots/contact_us.png)
-
-![Manufacturers](screenshots/manufacturers.png)
-
-![Services](screenshots/services.png)
-
-![Products](screenshots/products.png)
-
 <img src="screenshots/homepage.png" width="700">
+<img src="screenshots/contact_us.png" width="700">
+<img src="screenshots/manufacturers.png" width="700">
+<img src="screenshots/services.png" width="700">
+<img src="screenshots/products.png" width="700">
