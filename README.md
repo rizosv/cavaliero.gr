@@ -17,12 +17,19 @@ I was responsible in getting the whole project ready in just under a 3 week mark
 
 ## Screenshots 
 <img src="screenshots/homepage.png" width="700">
-<hr style="border:2px solid black">
-<hr style="border:1px dashed #888">
+
+---
+
 <img src="screenshots/contact_us.png" width="700">
 
 ---
 
 <img src="screenshots/manufacturers.png" width="700">
+
+---
+
 <img src="screenshots/services.png" width="700">
+
+---
+
 <img src="screenshots/products.png" width="700">
