@@ -36,3 +36,8 @@ I was responsible in getting the whole project ready in just under a 3 week mark
 ---
 
 <img src="screenshots/products.png" width="700">
+
+---
+
+## Note
+The source code belongs to the company and is not included here.
