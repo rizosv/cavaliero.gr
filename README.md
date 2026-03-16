@@ -17,7 +17,11 @@ I was responsible in getting the whole project ready in just under a 3 week mark
 
 ## Screenshots 
 ![Homepage](screenshots/homepage.png)
+
 ![Contact Us](screenshots/contact_us.png)
+
 ![Manufacturers](screenshots/manufacturers.png)
+
 ![Services](screenshots/services.png)
-![Products](screenshots/Products.png)
+
+![Products](screenshots/products.png)
