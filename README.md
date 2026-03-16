@@ -16,4 +16,4 @@ I was responsible in getting the whole project ready in just under a 3 week mark
 - Figma
 
 ## Screenshots 
-![Homepage] (screenshots/Cavaliero_Home_Page.png)
+![Homepage] (screenshots/homepage.png)
